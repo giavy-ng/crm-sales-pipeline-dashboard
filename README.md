@@ -91,19 +91,19 @@ The dashboard highlights the most important operational issues across the pipeli
 crm-sales-pipeline-dashboard/
 │
 ├── dashboard/
-│   └── crm-sales-pipeline-dashboard.pbix
+│   └── crm-sales-pipeline-dashboard.pbix    # Power BI dashboard file
 │
 ├── data/
-│   └── data-raw.xlsx
+│   └── data-raw.xlsx                        # Original CRM & Sales Pipeline dataset
 │
 ├── docs/
-│   └── crm-sales-pipeline-analysis.xlsx
+│   └── crm-sales-pipeline-analysis.xlsx     # Analysis workbook (Power Query, EDA, KPI planning)
 │
 ├── images/
-│   └── dashboard-overview.png
+│   └── dashboard-overview.png               # Screenshot of the final Power BI dashboard
 │
-├── README.md
-└── LICENSE
+├── README.md                                # Project overview, methodology, insights, and dashboard showcase
+└── LICENSE                                  # MIT License
 ```
 
 ---
